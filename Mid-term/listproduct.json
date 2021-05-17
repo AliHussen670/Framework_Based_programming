@@ -1,0 +1,85 @@
+{"product" :
+    [
+    
+    {
+        "ID": 0,
+        "productName": "Lemari ES",
+        "Harga": 130000,
+        "Gambar": " https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//87/MTA-3203348/frigigate_frigigate-fr17mk-lemari-es--1-pintu--khusus-jabodetabek-_full02.jpg",
+        "Stok": 3
+    
+    },
+    {
+        "ID": 1,
+        "productName": "Fan",
+        "Harga": 25000,
+        "Gambar": "https://www.senheng.com.my/media/catalog/product/p/e/pensonic-psf-45-stand-fan-16-inch-grey-styelectric-1802-05-styelectric_12_1_.jpg",
+        "Stok": 4
+    
+    },
+    {
+        "ID": 2,
+        "productName": "Watches",
+        "Harga": 100000,
+        "Gambar": "https://media.gq.com/photos/5e8c9a7cc21b8b00087a00f1/master/pass/watches-fix.jpg",
+        "Stok": 3
+    
+    },
+    {
+        "ID": 3,
+        "productName": "IPHONE 12 PRO MAX",
+        "Harga": 220000,
+        "Gambar": "https://images.tokopedia.net/img/cache/700/VqbcmM/2020/10/16/9030ee01-d76b-49cd-862d-c9f4ab4ecaf3.jpg",
+        "Stok": 4
+    
+    },
+    {
+        "ID": 4,
+        "productName": "Airjordan",
+        "Harga": 40000,
+        "Gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMUObZzYFjAHHkfWzQpx9_-vL2M0RlhJoVxw&usqp=CAU",
+        "Stok": 3
+    
+    },
+    {
+        "ID": 5,
+        "productName": "Samsung S21 Ultra",
+        "Harga": 80000,
+        "Gambar": "https://images.samsung.com/is/image/samsung/p6pim/id/galaxy-s21/gallery/id-galaxy-s21-ultra-5g-g988-sm-g998bzsgxid-368319460?$720_576_PNG$U",
+        "Stok": 3
+    
+    },
+    {
+        "ID": 6,
+        "Nama product": "Nike t shirt",
+        "Harga": 110000,
+        "Gambar": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/46444f5e-3792-43ff-946b-629b845b7e64/dri-fit-older-training-t-shirt-jFGjBC.png",
+        "Stok": 3
+    
+    },
+    {
+        "ID": 7,
+        "productName": "Ipad Pro",
+        "Harga": 250000,
+        "Gambar": "https://d2pa5gi5n2e1an.cloudfront.net/webp/global/images/product/tablets/Apple_iPad_Pro_12_9_2020/Apple_iPad_Pro_12_9_2020_L_1.jpg",
+        "Stok": 6
+    
+    },
+    {
+        "ID": 8,
+        "productName": "Washing Machine",
+        "Harga": 210000,
+        "Gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmBdeDdB8Y31sk9UQdkKJQFNX506DYaj40gg&usqp=CAU ",
+        "Stok": 3
+    
+    },
+    {
+        "ID": 9,
+        "productName": "microwave",
+        "Harga": 150000,
+        "Gambar": "https://images.tokopedia.net/img/cache/700/product-1/2018/3/29/0/0_cb8a7012-22af-470f-a7dc-3a0de2e1cc96_1080_934.jpg",
+        "Stok": 3
+    
+    }
+    ]
+    }

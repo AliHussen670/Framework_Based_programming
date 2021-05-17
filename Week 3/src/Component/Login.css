@@ -1,0 +1,51 @@
+/* Bordered form */
+form {
+     border: 2px solid  #f1f1f1;
+    text-align: center;  
+    margin-right: 450px; 
+    margin-left: 450px; 
+     }
+
+  h2{
+text-align: center;
+  }
+  
+  /* Full-width inputs */
+  input[type=email], input[type=password] {
+    width:40%;
+    padding: 10px   10px;
+    margin: 10px 16px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box ;
+  }
+  form label{
+    font-weight: bold;
+
+  }
+
+  
+  /* Set a style for all buttons */
+  button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 10px;
+    margin: 8px 4;
+    border: none;
+    cursor: pointer;
+    width: 65%;
+  }
+  
+  /* Extra style for the cancel button (red) */
+  .cancelbtn {
+    width: auto;
+    padding: 10px;
+    margin: 50px;
+    background-color: #f44336;
+  }
+  
+ 
+  
+
+
+ 

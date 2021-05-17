@@ -1,0 +1,20 @@
+{
+    "mahasiswa": [
+        {
+            "NIM": 1841720062,
+            "nama": "Adristi Iftitah Y",
+            "alamat": "Jl. Raya Bamban Rt.05 Rw.05 Kec.Pakis Kab. Malang",
+            "hp": "083890769199",
+            "angkatan": 2018,
+            "status": "aktif"
+        },
+        {
+            "NIM": 140823453,
+            "nama": "Bunga",
+            "alamat": "Jl. Menur No. 9 Surabaya",
+            "hp": "081802023523",
+            "angkatan": 2014,
+            "status": "lulus"
+        }
+    ]
+}
